@@ -7,8 +7,8 @@
     <ProjectGuid>{31813C9C-E2B8-4959-8012-828C6FAD3C73}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_06_Sorting</RootNamespace>
-    <AssemblyName>06_Sorting</AssemblyName>
+    <RootNamespace>CSC_Preparation</RootNamespace>
+    <AssemblyName>06_SomeAlgorithms</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

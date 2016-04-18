@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_HW_HashTableImplementati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_HW_HashedSet", "05_HW_HashedSet\05_HW_HashedSet.csproj", "{3AD22E2A-C7A1-4245-800B-9EFF819127E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_SomeAlgorithms", "06_Sorting\06_SomeAlgorithms.csproj", "{31813C9C-E2B8-4959-8012-828C6FAD3C73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_SomeAlgorithms", "06_SomeAlgorithms\06_SomeAlgorithms.csproj", "{31813C9C-E2B8-4959-8012-828C6FAD3C73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
